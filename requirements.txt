@@ -10,7 +10,7 @@ google-auth==1.20.1
 google-auth-oauthlib==0.4.1
 grpcio==1.31.0
 idna==2.10
-imageio==2.9.0
+imageio
 importlib-metadata==1.7.0
 kiwisolver==1.2.0
 Markdown==3.2.2
