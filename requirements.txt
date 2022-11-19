@@ -13,7 +13,7 @@ idna==2.10
 imageio
 importlib-metadata==1.7.0
 kiwisolver==1.2.0
-Markdown==3.2.2
+Markdown
 matplotlib==3.3.0
 networkx==2.4
 numpy==1.19.1
